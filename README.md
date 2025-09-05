@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramya-r-reddy&color=blue&style=flat-square)
 
-🎓 Final Year Student – BE in Information Science (2025)  
+🎓 Recent Graduate – BE in Information Science (2025)   
 💡 Passionate about **Data Analytics, Python, SQL, Power BI**  
 🌱 Currently exploring Machine Learning & Data Visualization  
 
