@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ramya Reddy  
+# 👋 Hello, I'm Ramya R
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramya-r-reddy&color=blue&style=flat-square)
 
